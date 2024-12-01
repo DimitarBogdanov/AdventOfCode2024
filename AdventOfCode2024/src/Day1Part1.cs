@@ -1,6 +1,6 @@
 ﻿namespace AdventOfCode2024;
 
-public sealed class Day1Puzzle1 : IAdventProblem
+public sealed class Day1Part1 : IAdventProblem
 {
     public int DayNumber => 1;
     
