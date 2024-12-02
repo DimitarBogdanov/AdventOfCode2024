@@ -4,7 +4,7 @@ public static class Program
 {
     public static void Main()
     {
-        IAdventProblem problem = new Day1Part2();
+        IAdventProblem problem = new Day2Part1();
         string? input = GetInput(problem);
         if (input == null)
         {
